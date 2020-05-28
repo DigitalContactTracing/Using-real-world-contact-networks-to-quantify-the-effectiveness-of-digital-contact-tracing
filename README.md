@@ -1,7 +1,8 @@
 # Using real-world contact networks to quantify the effectiveness of digital contact tracing and isolation strategies for Covid-19 pandemic
 
 **ABSTRACT:**
-<div style="text-align: right">
+
+<div style="text-align: justify">
 Contact tracing, both manual and potentially with digital apps, is considered a key ingredient in the control of infectious disease outbreaks, and in the strategies making it possible to alleviate the lock-down and to return to a quasi-normal functioning of society in the COVID-19 crisis.
 
 However, the current leading modeling framework for evaluating contact tracing is highly stylized, lacking important features
