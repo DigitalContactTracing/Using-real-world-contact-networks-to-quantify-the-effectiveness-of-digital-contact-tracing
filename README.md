@@ -18,6 +18,8 @@ Moreover, we confirm that a high level of app adoption is crucial to make contac
 
 Finally, we find that strategies focusing on long exposure times, even for weak links, perform better than approaches that emphasize close-range contacts for shorter time-periods. Our results have implications for the app-based contact tracing efforts currently being implemented across several countries worldwide.
 
+![](cover.png)
+
 ### Contacts: 
 For any question or comment, feel free to drop us an [email](mailto:digital_contact_tracing@fbk.eu).
 
