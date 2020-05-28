@@ -2,7 +2,6 @@
 
 **ABSTRACT:**
 
-<div style="text-align: justify">
 Contact tracing, both manual and potentially with digital apps, is considered a key ingredient in the control of infectious disease outbreaks, and in the strategies making it possible to alleviate the lock-down and to return to a quasi-normal functioning of society in the COVID-19 crisis.
 
 However, the current leading modeling framework for evaluating contact tracing is highly stylized, lacking important features
@@ -15,4 +14,3 @@ We find that restrictive policies are more effective in confining the epidemics 
 Moreover, we confirm that a high level of app adoption is crucial to make contact tracing an effective measure.
 
 Finally, we find that strategies focusing on long exposure times, even for weak links, perform better than approaches that emphasize close-range contacts for shorter time-periods. Our results have implications for the app-based contact tracing efforts currently being implemented across several countries worldwide.
-</div>
