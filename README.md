@@ -1,6 +1,6 @@
 # Using real-world contact networks to quantify the effectiveness of digital contact tracing and isolation strategies for Covid-19 pandemic
 
-### [Read the paper](covid_tracing_and_isolation.pdf)
+### Read the [paper](covid_tracing_and_isolation.pdf)
 
 ![](cover.png)
 
